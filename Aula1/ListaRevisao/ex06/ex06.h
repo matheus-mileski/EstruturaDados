@@ -19,8 +19,12 @@ typedef struct{
 const char* define_valor(int i);
 void criar_baralho(Baralho *novo);
 void imprimir_baralho(Baralho *novo);
+void imprimir_carta(Carta *carta);
 void embaralhar(Baralho *novo);
 int cartasNaoJogadas(Baralho *novo);
+Carta* topo(Baralho *novo);
+Carta* fundo(Baralho *novo);
+Carta* carteado(Baralho *novo);
 
 
 #endif //ESTRUTURADADOS_EX06_H
