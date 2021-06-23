@@ -10,6 +10,13 @@
 * Esse algoritmo tem um comportamento assintótico O(N²)
 */
 
+void imprimirVetor(int *v, int n){
+	for(int i = 0; i < n; i++){
+		printf("%i, ",v[i]);
+	}
+	printf("\n");
+}
+
 void bubbleSort(int *v, int n){
 	int troca = 0;
 	int fim = n-1;
@@ -23,6 +30,7 @@ void bubbleSort(int *v, int n){
 				v[i] = v[i+1];
 				v[i+1] = aux;
 				troca = 1;
+				imprimirVetor(v, n);
 			}
 		}
 		fim--;
@@ -35,17 +43,14 @@ int main() {
 	int v[] = {7,6,5,8,9,0,1,3,2,4};
 	int n = 10;
 	
-	for(int i = 0; i < n; i++){
-		printf("%i, ",v[i]);
-	}
+	printf("Sem Ordenar:\n");
+	imprimirVetor(v,n);
 	
+	printf("\nOrdenando:\n");
 	bubbleSort(v, n);
 	
-	printf("\n\n");
-	
-	for(int i = 0; i < n; i++){
-		printf("%i, ",v[i]);
-	}
+	printf("\nOrdenado:\n");
+	imprimirVetor(v, n);
 	
 	return 0;
 }
