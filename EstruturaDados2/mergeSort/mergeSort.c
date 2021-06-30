@@ -8,10 +8,21 @@ void imprimirVetor(int *v, int inicio, int fim){
 	printf("]\t");
 }
 
+/**
+* \brief Ordena o vetor usando MergeSort
+*
+* \param v vetor a ser ordenado
+* \param inicio índice do início do vetor
+* \param fim índice do final do vetor
+*
+* Ordena o vetor usando o método MergeSort
+* Esse algoritmo tem um comportamento assintótico O(n log n)
+*/
+
 void mergeSort(int *v, int inicio, int fim){
 	int meio;
 	if(inicio < fim){
-		meio = floor((inicio+fim)/2);
+		meio = (inicio+fim)/2;
 		
 		imprimirVetor(v, inicio, meio);
 		imprimirVetor(v, meio+1, fim);
@@ -25,6 +36,18 @@ void mergeSort(int *v, int inicio, int fim){
 		printf("\n");
 	}
 }
+
+/**
+* \brief Intercala dois vetores
+*
+* \param v vetor a ser intercalado
+* \param inicio índice do início do vetor
+* \param meio índice do último elemento do primeiro vetor
+* \param fim índice do final do segundo vetor
+*
+* Intercala um vetor dividido em duas partes de maneira
+* ordenada
+*/
 
 void merge(int *v, int inicio, int meio, int fim){
 	int *temp, p1, p2, tamanho, j, k;
@@ -62,13 +85,12 @@ void merge(int *v, int inicio, int meio, int fim){
 
 int main() {
 	
-	int v[] = {7,6,5,8,9,0,1,3,2,4};
+	int v[] = {5, 7, 8, 6, 1, 2, 0, 9, 3, 4};
 	int n = 10;
 	
 	printf("Sem Ordenar:\n");
 	imprimirVetor(v,0, n-1);
 	printf("\n");
-	
 	
 	printf("\nOrdenando:\n");
 	mergeSort(v, 0, n-1);
