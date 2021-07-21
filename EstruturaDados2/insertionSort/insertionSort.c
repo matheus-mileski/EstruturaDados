@@ -37,7 +37,6 @@ void insertionSort(int *v, int n){
 		v[j+1] = eleito;
 		imprimirVetor(v, n);
 	}
-	
 }
 
 int main() {

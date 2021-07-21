@@ -41,7 +41,6 @@ void selectionSort(int *v, int n){
 		}
 		imprimirVetor(v, n);
 	}
-	
 }
 
 int main() {
