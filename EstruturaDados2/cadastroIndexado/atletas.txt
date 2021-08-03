@@ -1,0 +1,200 @@
+246 Henrique Cardoso               25 Boxe                     
+070 Rafael Golias                  31 Boxe                     
+109 Gabriel Alves                  27 Basquete                 
+132 Laura Bragato                  35 Boxe                     
+333 Benjamim Amaral                21 Basquete                 
+172 Fernanda Nunes                 32 Handebol                 
+218 Rodrigo Martinss               36 Judo                     
+234 Bruna Couto                    24 Futebol                  
+181 Bruno Martinss                 39 Remo                     
+096 Julia Couto                    23 Ciclismo Estrada         
+178 Joao Dias                      35 Tiro com Arco            
+089 Fernanda Cunha                 17 Skate Street             
+098 Vitoria Fred                   31 Ginastica Trampolim      
+014 Valentina Santos               18 Tenis                    
+149 Gabriel Ribeiro                31 Basebol                  
+224 Luana Teixeira                 29 Basquete                 
+262 Joao Pedroso                   37 Surfe                    
+268 Luana Bastos                   36 Luta Livre               
+345 Larissa Golias                 24 Escalada                 
+319 Livia Golias                   19 Volei de Praia           
+290 Gustavo Borges                 25 Basebol                  
+183 Arthur Costa                   29 Vela                     
+318 Bruna Moreira                  16 Basebol                  
+020 Amanda Nunes                   17 Hoquei                   
+101 Joao Goncalves                 21 Natacao Artistica        
+185 Arthur Machado                 22 Pentatlo Moderno         
+104 Heitor Bragato                 38 Golfe                    
+052 Leonardo Gelmini               26 Canoagem Velocidade      
+115 Thiago Moreira                 29 Tenis de Mesa            
+251 Heitor Garcia                  38 Ciclismo Mountain bike   
+311 Vinicius Lima                  36 Vela                     
+358 Yasmin Nunes                   33 Basquete                 
+151 Ana Matiello                   33 Judo                     
+162 Rafael Almeida                 27 Ciclismo BMX             
+286 Lucas Campos                   27 Volei de Quadra          
+085 Gabriel Fernandes              28 Esgrima                  
+330 Lara Ferreira                  22 Skate Park               
+118 Manuela Moura                  39 Basquete                 
+016 Maria Eduarda Teixeira         17 Luta Livre               
+385 Noah Godoi                     22 Surfe                    
+269 Ana Fred                       32 Saltos Ornamentais       
+226 Amanda Campos                  29 Vela                     
+121 Gustavo Nunes                  27 Surfe                    
+291 Henrique Carvalho              23 Natacao                  
+263 Gabriel Mota                   39 Badminton                
+253 Camila Rocha                   36 Golfe                    
+339 Bruno Mota                     34 Hoquei                   
+267 Helena Barros                  17 Judo                     
+073 Larissa Souza                  32 Taekwondo                
+169 Amanda Castro                  36 Skate Street             
+304 Thiago Garcia                  26 Hipismo                  
+264 Rodrigo Freitas                17 Ginastica Ritmica        
+247 Leticia Bragato                33 Ciclismo BMX             
+105 Matheus Matiello               24 Remo                     
+143 Rebeca Santana                 25 Handebol                 
+077 Maria Moura                    17 Pentatlo Moderno         
+152 Beatriz Mendes                 19 Ginastica Ritmica        
+054 Helena Fernandes               28 Canoagem Slalom          
+174 Cecilia Marques                27 Carate                   
+208 Felipe Souza                   18 Ciclismo Estrada         
+201 Sophia Reis                    21 Badminton                
+388 Lucas Correia                  29 Ginastica Trampolim      
+015 Enzo Campos                    21 Taekwondo                
+250 Luana Lopes                    35 Tenis                    
+126 Gustavo Gomes                  32 Golfe                    
+207 Antonio Marques                21 Saltos Ornamentais       
+321 Vitoria Marques                19 Ginastica Artistica      
+348 Cecilia Carvalho               35 Luta Greco-romana        
+225 Lorenzo Bastos                 32 Luta Greco-romana        
+203 Davi Fred                      26 Ciclismo BMX             
+044 Joao Amaral                    16 Basquetebol              
+354 Guilherme Miranda              18 Basquetebol              
+127 Manuela Correia                21 Canoagem Velocidade      
+368 Cecilia Cunha                  26 Luta Livre               
+110 Isadora Correia                16 Futebol                  
+080 Nicolas Lopes                  28 Escalada                 
+106 Juliana Fernandes              32 Golfe                    
+066 Maria Eduarda Nunes            36 Handebol                 
+001 Gustavo Goncalves              19 Tenis                    
+167 Isadora Lima                   17 Skate Park               
+117 Maria Eduarda Freitas          35 Basquete                 
+025 Bruno Gelmini                  27 Judo                     
+309 Rodrigo Oliveira               26 Handebol                 
+278 Heitor Godoi                   37 Ginastica Trampolim      
+233 Gustavo Alves                  35 Hipismo                  
+072 Heitor Pereira                 19 Polo Aquatico            
+095 Rebeca Costa                   24 Ginastica Artistica      
+114 Matheus Lopes                  21 Judo                     
+160 Felipe Marques                 39 Volei de Praia           
+296 Heitor Oliveira                22 Escalada                 
+140 Beatriz Fred                   37 Carate                   
+148 Isadora Moreira                25 Rugby Sevens             
+046 Guilherme Bragato              23 Canoagem Slalom          
+332 Maria Eduarda Matiello         24 Skate Park               
+021 Lucas Marques                  40 Surfe                    
+187 Rodrigo Barbosa                16 Ciclismo Pista           
+316 Felipe Machado                 18 Ginastica Trampolim      
+022 Larissa Andrade                30 Skate Street             
+206 Larissa Ferreira               28 Pentatlo Moderno         
+079 Juliana Teixeira               26 Natacao                  
+375 Manuela Moraes                 27 Carate                   
+136 Felipe Souza                   29 Triatlo                  
+389 Matheus Pedroso                18 Carate                   
+356 Amanda Fred                    28 Tiro com Arco            
+081 Beatriz Melo                   30 Boxe                     
+283 Miguel Ribeiro                 40 Basebol                  
+222 Noah Fernandes                 35 Basquete                 
+168 Daniel Alves                   27 Judo                     
+032 Amanda Amaral                  35 Ciclismo Pista           
+376 Rodrigo Mendes                 38 Saltos Ornamentais       
+205 Joao Gelmini                   23 Vela                     
+390 Gustavo Duarte                 35 Handebol                 
+200 Davi Lopes                     20 Tiro com Arco            
+197 Lorenzo Moreira                32 Basebol                  
+220 Samuel Santos                  20 Ginastica Artistica      
+370 Matheus Nunes                  39 Ginastica Ritmica        
+195 Helena Bastos                  33 Ginastica Trampolim      
+301 Miguel Dutra                   21 Triatlo                  
+302 Gustavo Borges                 37 Basquetebol              
+012 Thiago Soares                  35 Ginastica Trampolim      
+031 Isabela Silva                  26 Ciclismo Estrada         
+336 Sophia Golias                  18 Vela                     
+156 Lucas Carvalho                 18 Ginastica Trampolim      
+398 Joao Machado                   39 Basquetebol              
+192 Leticia Cardoso                28 Ciclismo Freestyle       
+347 Leticia Moura                  19 Carate                   
+037 Luana Moreira                  27 Remo                     
+377 Pedro Oliveira                 28 Skate Park               
+040 Maria Garcia                   37 Ginastica Ritmica        
+294 Fernanda Castro                23 Tiro com Arco            
+064 Julia Melo                     38 Escalada                 
+023 Maria Bastos                   25 Taekwondo                
+287 Thiago Lopes                   27 Basquetebol              
+194 Mariana Garcia                 23 Taekwondo                
+141 Gabriel Machado                30 Ciclismo Estrada         
+191 Rafael Reis                    36 Ciclismo Estrada         
+129 Benjamim Martinss              29 Taekwondo                
+138 Maria Santos                   35 Basquete                 
+284 Miguel Lima                    33 Ginastica Trampolim      
+007 Gustavo Golias                 24 Boxe                     
+057 Laura Fred                     24 Canoagem Velocidade      
+324 Joao Garcia                    33 Surfe                    
+326 Valentina Fred                 18 Carate                   
+111 Camila Carvalho                34 Esgrima                  
+221 Lorenzo Correia                34 Esgrima                  
+182 Rodrigo Goncalves              34 Golfe                    
+092 Rafael Alves                   30 Hoquei                   
+272 Antonio Matiello               21 Saltos Ornamentais       
+179 Gabriel Ribeiro                28 Pentatlo Moderno         
+047 Matheus Medeiros               37 Vela                     
+229 Davi Amaral                    25 Ciclismo Estrada         
+383 Gabriel Freitas                35 Tenis de Mesa            
+190 Lorenzo Reis                   18 Ciclismo Freestyle       
+161 Vitoria Amaral                 26 Pentatlo Moderno         
+273 Miguel Gelmini                 25 Ciclismo Mountain bike   
+107 Enzo Barros                    36 Luta Greco-romana        
+210 Amanda Duarte                  24 Ciclismo BMX             
+289 Felipe Batista                 30 Ginastica Artistica      
+193 Lorenzo Marques                27 Futebol                  
+213 Maria Eduarda Godoi            35 Ciclismo Freestyle       
+082 Guilherme Ramos                29 Esgrima                  
+245 Pedro Batista                  25 Canoagem Slalom          
+017 Valentina Marques              20 Ciclismo Mountain bike   
+277 Nicolas Bragato                17 Vela                     
+396 Yasmin Teixeira                34 Vela                     
+147 Juliana Silva                  30 Natacao Artistica        
+239 Laura Barros                   22 Carate                   
+244 Vitoria Santana                24 Halterofilismo           
+093 Mariana Machado                22 Basquete                 
+078 Diego Barbosa                  38 Basquetebol              
+005 Miguel Melo                    18 Golfe                    
+215 Livia Teixeira                 21 Ciclismo Mountain bike   
+027 Laura Gelmini                  17 Natacao                  
+310 Mariana Matiello               30 Carate                   
+113 Gustavo Mendes                 25 Badminton                
+068 Yasmin Matiello                33 Tenis                    
+360 Bruno Campos                   31 Basebol                  
+357 Laura Santos                   31 Hoquei                   
+055 Bernardo Fernandes             33 Boxe                     
+084 Davi Ramos                     40 Saltos Ornamentais       
+371 Gustavo Pedroso                23 Luta Livre               
+307 Cecilia Correia                19 Surfe                    
+029 Joao Dias                      17 Hipismo                  
+379 Isabela Souza                  26 Volei de Quadra          
+216 Amanda Vieira                  28 Ginastica Ritmica        
+306 Davi Dutra                     38 Tenis de Mesa            
+088 Mariana Couto                  31 Volei de Praia           
+298 Rafael Santana                 35 Escalada                 
+008 Arthur Campos                  40 Esgrima                  
+327 Isabela Barbosa                21 Natacao Artistica        
+086 Felipe Silva                   23 Canoagem Velocidade      
+322 Camila Pedroso                 37 Saltos Ornamentais       
+346 Benjamim Matiello              22 Tenis                    
+108 Matheus Lopes                  21 Judo                     
+065 Joao Goncalves                 29 Halterofilismo           
+249 Juliana Martinss               16 Halterofilismo           
+030 Manuela Ramos                  32 Surfe                    
+041 Leticia Moura                  25 Luta Greco-romana        
+231 Bruno Lopes                    35 Volei de Praia           
+011 Manuela Cunha                  38 Luta Livre               
